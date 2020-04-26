@@ -13,5 +13,5 @@ if (self.layoutStyle == TTTNWaterFlowVerticalEqualWidth || self.layoutStyle == T
     layout.lineOrRowCount = 3;</br>
 }</br>
 layout.flowLayoutStyle = self.layoutStyle;</br>
-UICollectionView *collectionView = [[UICollectionView alloc] initWithFrame:self.view.bounds collectionViewLayout:layout];
+UICollectionView *collectionView = [[UICollectionView alloc] initWithFrame:self.view.bounds collectionViewLayout:layout];</br>
 参考https://github.com/wsl2ls/WSLWaterFlowLayout 重新造的一个轮子，只是自己跟着重新写了一遍
