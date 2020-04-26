@@ -14,4 +14,4 @@ if (self.layoutStyle == TTTNWaterFlowVerticalEqualWidth || self.layoutStyle == T
 }</br>
 layout.flowLayoutStyle = self.layoutStyle;</br>
 UICollectionView *collectionView = [[UICollectionView alloc] initWithFrame:self.view.bounds collectionViewLayout:layout];</br>
-参考https://github.com/wsl2ls/WSLWaterFlowLayout 重新造的一个轮子，只是自己跟着重新写了一遍
+参考https://github.com/wsl2ls/WSLWaterFlowLayout 重新造的一个轮子,只是自己跟着重新写了一遍,添加了横向滑动的头脚布局
