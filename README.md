@@ -1,6 +1,6 @@
 # TTTNWaterFlowLayoyt
 瀑布流布局</br>
-![瀑布流](https://github.com/TingTauren/TTTNWaterFlowLayoyt/blob/master/Apr-26-2020%2014-46-41.gif)
+![](https://github.com/TingTauren/TTTNWaterFlowLayoyt/blob/master/Apr-26-2020%2014-46-41.gif)
 
 常用瀑布流布局</br>
 使用简单，使用和正常layout相似，把设置滚动方向变成设置瀑布流类型就好</br>
